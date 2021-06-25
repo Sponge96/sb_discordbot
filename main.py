@@ -6,7 +6,7 @@ from random_talents import roll_talents
 client = discord.Client()
 
 load_dotenv()
-TOKEN = os.getenv('TOKEN')
+TOKEN = os.getenv('TOKEN') # Simply create .env file with TOKEN = token inside
 
 
 @client.event
