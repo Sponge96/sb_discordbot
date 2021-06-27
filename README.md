@@ -1,1 +1,1 @@
-Simple Discord Bot that direct messages anyone using the $roll command in the server channel. 
+A Discord Bot that allows users to randomize their talents for the game Spellbreak. Initially, I created the standalone randomizer for friends and Twitch streamers of the game but wanted to take the project a step further in terms of usability as I felt converting Python to an executable wasn’t the right path.
